@@ -1,2 +1,2 @@
 # REPO_V2
-Continuing python books
+Learning the basics of Github and Python
